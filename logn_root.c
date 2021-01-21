@@ -1,8 +1,5 @@
 //Computing the kth root of a number n,
 /*This program tries to compute the kth root of a number n in the log n time order. 
-  Author : Tahir Ahmed Shaik
-  Date : 03/10/2020
-  Roll : CSMTECH2014007
 */
 
 #include<stdio.h>
