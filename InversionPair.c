@@ -1,9 +1,5 @@
 //Program for finding finding inversions in n log n time
-
 /*This program tries to find the inversion pair count for an array in n log n time order.. 
-  Author : Tahir Ahmed Shaik
-  Date : 03/10/2020
-  Roll : CSMTECH2014007
 */
 
 #include<stdio.h>
